@@ -13,3 +13,6 @@
 
 Схема подключения:
 ![Схема подключения](https://github.com/dbprof/chrismas-lights/blob/master/schema.png)
+
+Видео по сборке:
+[![Видео](https://github.com/dbprof/chrismas-lights/blob/master/video2.png)](https://youtu.be/R4cUnKBIF1w)
